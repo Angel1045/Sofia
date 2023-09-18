@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Flor Amarilla</title>
+</head>
+<body>
+  <div class="flower">
+    <div class="petal yellow"></div>
+    <div class="center"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
